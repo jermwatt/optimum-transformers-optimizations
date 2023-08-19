@@ -1,6 +1,6 @@
-optimum[onnxruntime]==1.2.3
+optimum[onnxruntime]==1.11.1
 evaluate 
-sklearn
+scikit-learn
 mkl-include
 mkl
 optuna
